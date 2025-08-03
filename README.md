@@ -4,11 +4,9 @@ A highly customizable animated glow orb widget with gradient effects, perfect fo
 
 ## Preview
 
-<div align="center">
-  <img src="https://github.com/jaimecalderon19/glow_orb/blob/main/screenshots/example.png" alt="Demo de la Cara de Asistente" width="250"/>
-  <br>
-  <em>Widget de Cara de Asistente con gradiente animado</em>
-</div>
+![Demo de la Cara de Asistente](https://github.com/jaimecalderon19/glow_orb/blob/main/screenshots/example.png)
+
+*Widget de Cara de Asistente con gradiente animado*
 
 ## Features
 
